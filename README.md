@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammed-shetaya
+- Hi, I’m @muhammed-shetaya
 - 👀 I’m interested in Maths, Computer Science
 - Python is my favorite programming language.
 - Hello World!
